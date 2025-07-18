@@ -1,6 +1,6 @@
 # 🧑‍💻 Osman Suleiman Hassan – Developer Portfolio
 
-Welcome to my personal portfolio website hosted via GitHub Pages.
+Welcome to my personal portfolio website hosted via GitHub Pages
 
 This portfolio showcases my projects, technical skills, and experience in:
 - ✅ Software Development
